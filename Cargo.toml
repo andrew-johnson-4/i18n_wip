@@ -1,6 +1,6 @@
 [package]
 name = "i18n"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Andrew <andrew@subarctic.org>"]
 description = "Do you want help with i18n or l10n?"
 license = "MIT"

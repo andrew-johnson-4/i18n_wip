@@ -20,9 +20,9 @@ Pledged Contributions
 
 | Language        | Simple             | Moderate           | Difficult          |
 | --------------- | ------------------ | ------------------ | ------------------ |
-| Chinese         | :heavy_check_mark: | :x:                | :x:                |
-| Japanese        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Korean          | :heavy_check_mark: | :x:                | :x:                |
-| English         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Chinese         | ✔️ | ❌                | ❌                |
+| Japanese        | ✔️ | ✔️ | ✔️ |
+| Korean          | ✔️ | ❌                | ❌               |
+| English         | ✔️ | ✔️ | ✔️ |
 
 Donate if you feel like it.

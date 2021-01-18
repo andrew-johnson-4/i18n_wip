@@ -3,6 +3,7 @@ name = "i18n"
 version = "0.1.0"
 authors = ["Andrew <andrew@subarctic.org>"]
 description = "Do you want help with i18n or l10n?"
+license = "MIT"
 edition = "2018"
 readme = "README.md"
 repository = "https://github.com/andrew-johnson-4/i18n_wip"

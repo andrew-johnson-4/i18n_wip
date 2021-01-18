@@ -10,15 +10,15 @@ Make a pull request if you want an open-source project to support your language.
 Translators and Locale Experts are classified by their ability to help with increasingly difficult integrations. 
 Here is a list of work capabilities that a bilingual translator might have or not have.
 
-| Task Difficulty | Description                                                               |
-| --------------- | ------------------------------------------------------------------------- |
-| Easy            | Translate strings for use in project asset files.                         |
-| Medium          | Help restructure a project to use i18n or l10n sensitive strings.         |
-| Hard            | Translate documentation for use on project website.                       |
+| Task Difficulty  | Description                                                               |
+| ---------------- | ------------------------------------------------------------------------- |
+| Simple           | Translate strings for use in project asset files.                         |
+| Moderate         | Help restructure a project to use i18n or l10n sensitive strings.         |
+| Difficult        | Translate documentation for use on project website.                       |
 
 Pledged Contributions
 
-| Language        | Easy               | Medium             | Hard               |
+| Language        | Simple             | Moderate           | Difficult          |
 | --------------- | ------------------ | ------------------ | ------------------ |
 | Chinese         | :heavy_check_mark: | :x:                | :x:                |
 | Japanese        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |

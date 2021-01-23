@@ -8,7 +8,7 @@ Make a pull request if you want an open-source project to support your language.
 오픈 소스 프로젝트가 여러분의 언어를 지원하기를 원한다면 풀 리퀘스트를 만드십시오.
 
 Translators and Locale Experts are classified by their ability to help with increasingly difficult integrations. 
-Here is a list of work capabilities that a bilingual translator might have or not have.
+Here is a list of work capabilities that a bilingual translator might have or not have:
 
 | Task Difficulty  | Description                                                               |
 | ---------------- | ------------------------------------------------------------------------- |
